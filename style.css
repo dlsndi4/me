@@ -193,6 +193,8 @@ top:-1.8em;
     overflow: hidden;
 }
 
+
+}
 @media (min-width: 768px ) {
   .portrait{
     position: fixed;
